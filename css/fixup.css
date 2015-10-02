@@ -1,0 +1,30 @@
+/*
+ * Custom settings for modified Clean Blog theme
+ *
+ * $Id$
+ *
+ * -- jordan@teddy-net.com
+ */
+
+/* subtitles for image headers */
+.site-heading .subheading,
+.page-heading .subheading {
+    /* custom settings */
+}
+
+/* contact form fields */
+form #contact-name,
+form #contact-phone,
+form #contact-address,
+form #contact-message {
+    /* custom settings */
+}
+
+/* discussion list activator */
+#debate-sink a {
+    border: 0 none;
+    padding: 0 0 0 0;
+    margin-bottom: 2.4em;
+}
+
+/* End */
